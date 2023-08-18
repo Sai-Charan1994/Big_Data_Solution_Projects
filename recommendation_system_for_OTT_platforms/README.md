@@ -26,5 +26,5 @@ Data Engineering, Azure Data Lake Storage (ADLS), Hadoop, Databricks, Apache Spa
 
 #### 📣 Key Learnings:
 
-**Mastering Hybrid Cloud Solutions:** Developed a deep understanding of architecting data flows, optimizing Spark processing, and integrating diverse sources for advanced analytics.
+**Mastering Hybrid Cloud Solutions:** Developed a deep understanding of architecting data flows, optimizing Spark processing, and integrating diverse sources for advanced analytics. <br>
 **Delivering Business Impact:** Gained extensive experience in translating data engineering efforts into tangible business value.
